@@ -2,7 +2,7 @@
 
 ### Allows image maps to be used in a responsive design by recalculating the area coordinates to match the actual image size on load and window.resize
 
-###Notice: This code is modification of stowball's jQuery-rwdImageMaps repository. I wanted to get rid of dependencies using simple and light solution.
+### Notice: This code is modification of stowball's jQuery-rwdImageMaps repository. I wanted to get rid of dependencies using simple and light solution.
 ---
 
 #### Usage:
