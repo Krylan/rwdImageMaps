@@ -45,6 +45,7 @@ var rwdImageMaps = function(img_el) {
 		});
 	};
 	window.addEventListener('resize', rwdImageMap);
+	rwdImageMap();
 
 	return this;
 };
